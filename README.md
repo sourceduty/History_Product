@@ -1,10 +1,10 @@
 ![Einstein](https://github.com/sourceduty/History_Product/assets/123030236/3e7e1001-bb48-40fc-ae80-730cfb3f205f)
 
-> Use DALL-E 3 to create product packaging images using historical people and objects.
+> Use DALL-E 3 to create product packaging images using historical people, events and objects.
 
 #
 
-[History Product](https://chatgpt.com/g/g-Y8gSet3UD-history-product) was built to help you create product packaging that features real people, characters, or objects from history. Its primary function is to guide you through the design process, ensuring that the selected historical figures, fictional characters, or objects are appropriate and align with the theme of your product. By leveraging the visual capabilities of DALL-E 3, History Product can generate detailed and creative images that bring your historical-themed packaging to life.
+[History Product](https://chatgpt.com/g/g-Y8gSet3UD-history-product) was built to help you create product packaging that features real people, events, characters, or objects from history. Its primary function is to guide you through the design process, ensuring that the selected historical figures, fictional characters, or objects are appropriate and align with the theme of your product. By leveraging the visual capabilities of DALL-E 3, History Product can generate detailed and creative images that bring your historical-themed packaging to life.
 
 "History Product" can assist you in several ways. First, it helps you choose suitable historical figures, fictional characters, or objects by providing a step-by-step, multiple-choice process. This ensures that your choices are well-informed and align with the desired aesthetic and theme. Additionally, it offers creative suggestions for packaging design, helping you conceptualize and visualize the final product. Whether you are looking to create a vintage feel or highlight a specific historical period, History Product provides the necessary tools and guidance to achieve your vision.
 
