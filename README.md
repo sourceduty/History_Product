@@ -1,4 +1,4 @@
-![History Product](https://github.com/sourceduty/History_Product/assets/123030236/669557a9-0406-4034-81ae-540f8b713fa7)
+![George Washington](https://github.com/sourceduty/History_Product/assets/123030236/9bfc2248-d481-4953-95f4-c7fa7b6021d9)
 
 > Use DALL-E 3 to create product packaging images using historical people and objects.
 
