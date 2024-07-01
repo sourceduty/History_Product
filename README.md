@@ -23,15 +23,15 @@ By combining these elements, History Product helps you create engaging and histo
 ![Example History Product](https://github.com/sourceduty/History_Product/assets/123030236/dfa09c72-f2f6-412b-987b-d76b6635c383)
 
 #
-
-> Alex: *"This is one of my best custom built GPTs."*
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Sports Product](https://github.com/sourceduty/Sports_Product)
+
+#
+
+> Alex: *"This is one of my best custom built GPTs."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
