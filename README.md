@@ -31,7 +31,7 @@ By combining these elements, History Product helps you create engaging and histo
 
 #
 
-> Alex: *"This is one of my best custom built GPTs."*
+> Alex: *"This is one of my favorite custom built GPTs."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
