@@ -34,6 +34,8 @@ By combining these elements, History Product helps you create engaging and histo
 [Animal Product](https://github.com/sourceduty/Animal_Product)
 <br>
 [History Simulator](https://github.com/sourceduty/History_Simulator)
+<br>
+[Character Product](https://github.com/sourceduty/Character_Product)
 
 #
 
